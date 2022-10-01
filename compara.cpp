@@ -1,17 +1,17 @@
- #include<iostream>
+#include<iostream>
 using namespace std;
 int main()
 {
-	float a,b;
-	cout<<"ingrese a b:"; cin>>a>>b;
-	if(a>b)
+	float KAAJ_a,KAAJ_b;
+	cout<<"ingrese KAAJ_a KAAJ_b:"; cin>>KAAJ_a>>KAAJ_b;
+	if(KAAJ_a>KAAJ_b)
 	{
-	  cout<<a<<" es mayor a "<<b<<endl;
+	  cout<<KAAJ_a<<" es mayor a "<<KAAJ_b<<endl;
 
 
 	}else{
 
-	  cout<<b<<" es mayor a "<<a<<endl;
+	  cout<<KAAJ_b<<" es mayor a "<<KAAJ_a<<endl;
 
 
 	}
